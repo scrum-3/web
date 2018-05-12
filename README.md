@@ -1,1 +1,2 @@
 # web
+cdn for MathJax
